@@ -23,15 +23,6 @@
 
 I'm a **Computer Science Engineering student** focused on **Data Science, AI, backend systems, and building real-world software**.
 
-* 🔭 Currently building **Datadeciqo** — an AI-powered B2B SaaS for business data analysis and decision intelligence.
-* 🧠 Interested in **Data Science, Machine Learning, AI Engineering & Backend Development**.
-* 🛠️ Currently working with **Python, SQL, FastAPI, PostgreSQL, Next.js, React and TypeScript**.
-* 📊 My long-term focus is building systems that turn **raw data → insights → decisions**.
-* 🚀 I prefer building practical products rather than only learning theory.
-* 📚 CSE student at **GEC Daman**.
-
-> **Turning Data into Decisions That Matter.**
-
 ---
 
 ## 🚀 Featured Projects
