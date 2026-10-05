@@ -193,14 +193,6 @@ Data + AI Products
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khush094sharma-glitch/khush094sharma-glitch/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="left">
@@ -217,5 +209,5 @@ Data + AI Products
 ---
 
 <p align="center">
-  <i>Build. Learn. Ship. Improve.</i>
+  <i>Build. Learn. Test. Improve.</i>
 </p>
