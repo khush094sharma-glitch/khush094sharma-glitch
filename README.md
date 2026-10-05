@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushboo Sharma</h1>
 
-<h3 align="center">Data Scientist • AI Builder • CSE Student</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   <a href="https://github.com/khush094sharma-glitch">
