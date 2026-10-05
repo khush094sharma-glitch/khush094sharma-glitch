@@ -1,39 +1,221 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushboo Sharma</h1>
 
-<!--
-**khush094sharma-glitch/khush094sharma-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Scientist • AI Builder • CSE Student</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Khushboo Sharma</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="khush094sharma-glitch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khush094sharma-glitch" alt="khush094sharma-glitch" /></a> </p>
-
-- 🔭 I’m currently working on [Nutrition-Management-System](https://github.com/khush094sharma-glitch/Nutrition-Management-System)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **khush094sharma@gmil.com**
-
-- ⚡ Fun fact **I am working on B2B SaaS for automated buisiness data analysis & decision intelligence**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/khush094sharma-glitch">
+    <img src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/khush094sharma-glitch">
+    <img src="https://img.shields.io/github/followers/khush094sharma-glitch?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/khush094sharma-glitch?tab=repositories">
+    <img src="https://img.shields.io/github/stars/khush094sharma-glitch?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" alt="GitHub Stars"/>
+  </a>
+</p>
 
+---
+
+## 👩‍💻 About Me
+
+I'm a **Computer Science Engineering student** focused on **Data Science, AI, backend systems, and building real-world software**.
+
+* 🔭 Currently building **Datadeciqo** — an AI-powered B2B SaaS for business data analysis and decision intelligence.
+* 🧠 Interested in **Data Science, Machine Learning, AI Engineering & Backend Development**.
+* 🛠️ Currently working with **Python, SQL, FastAPI, PostgreSQL, Next.js, React and TypeScript**.
+* 📊 My long-term focus is building systems that turn **raw data → insights → decisions**.
+* 🚀 I prefer building practical products rather than only learning theory.
+* 📚 CSE student at **GEC Daman**.
+
+> **Turning Data into Decisions That Matter.**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Datadeciqo
+
+**AI-powered B2B SaaS for automated business data analysis & decision intelligence.**
+
+Connect business data → clean & analyze → detect patterns → investigate causes → predict outcomes → generate actionable recommendations.
+
+**Stack:** Python • FastAPI • PostgreSQL • Redis • Next.js • TypeScript • ML • LLMs
+
+🔗 **Private / In Development**
+
+---
+
+### 🥗 Nutrition Management System
+
+A backend-focused application for managing nutrition-related data and workflows.
+
+**Stack:** Python • Django • MySQL • HTML • CSS
+
+🔗 [View Repository](https://github.com/khush094sharma-glitch/Nutrition-Management-System)
+
+---
+
+### ⚡ UrjaSiddhi
+
+Smart energy monitoring system designed to monitor industrial machine energy consumption and detect abnormal usage patterns.
+
+**Stack:** ESP32 • PZEM-004T • FastAPI • InfluxDB • Python • Machine Learning
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+</p>
+
+### Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khush094sharma-glitch&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khush094sharma-glitch&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 What I'm Currently Building
+
+```text
+Datadeciqo
+│
+├── Business Data Ingestion
+├── Data Validation & Profiling
+├── Automated Data Cleaning
+├── Exploratory Data Analysis
+├── Pattern & Anomaly Detection
+├── Root-Cause Investigation
+├── Predictive Analysis
+├── Decision Recommendations
+└── AI-powered Data Interaction
+```
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+📊 Data Science & Machine Learning <br>
+🤖 AI Engineering <br>
+⚙️ Backend & API Development <br>
+🗄️ Databases & Data Systems <br>
+🚀 Building Datadeciqo
+
+</p>
+
+---
+
+## 🌱 Learning Roadmap
+
+```text
+Python
+   ↓
+SQL & Data Analysis
+   ↓
+Statistics & Machine Learning
+   ↓
+Backend Engineering
+   ↓
+AI / LLM Systems
+   ↓
+Data + AI Products
+```
+
+---
+
+## 💻 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&hide_title=true&hide=issues&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khush094sharma-glitch/khush094sharma-glitch/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="left">
+<a href="mailto:khush094sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/khush094sharma-glitch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Ship. Improve.</i>
+</p>
