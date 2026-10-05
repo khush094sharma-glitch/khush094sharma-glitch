@@ -135,56 +135,6 @@ Smart energy monitoring system designed to monitor industrial machine energy con
 
 ---
 
-## 📌 What I'm Currently Building
-
-```text
-Datadeciqo
-│
-├── Business Data Ingestion
-├── Data Validation & Profiling
-├── Automated Data Cleaning
-├── Exploratory Data Analysis
-├── Pattern & Anomaly Detection
-├── Root-Cause Investigation
-├── Predictive Analysis
-├── Decision Recommendations
-└── AI-powered Data Interaction
-```
-
----
-
-## 🎯 Current Focus
-
-<p align="center">
-
-📊 Data Science & Machine Learning <br>
-🤖 AI Engineering <br>
-⚙️ Backend & API Development <br>
-🗄️ Databases & Data Systems <br>
-🚀 Building Datadeciqo
-
-</p>
-
----
-
-## 🌱 Learning Roadmap
-
-```text
-Python
-   ↓
-SQL & Data Analysis
-   ↓
-Statistics & Machine Learning
-   ↓
-Backend Engineering
-   ↓
-AI / LLM Systems
-   ↓
-Data + AI Products
-```
-
----
-
 ## 💻 GitHub Activity
 
 <p align="center">
@@ -209,5 +159,5 @@ Data + AI Products
 ---
 
 <p align="center">
-  <i>Build. Learn. Test. Improve.</i>
+  <i>Learn. Build. Test. Improve.</i>
 </p>
