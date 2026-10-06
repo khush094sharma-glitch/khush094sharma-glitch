@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** focused on **Data Science, AI, backend systems, and building real-world software**.
+I'm a **Computer Science Engineering student** focused on **Data Science, AI & ML, and building real-world software**.
 
 ---
 
