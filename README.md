@@ -25,17 +25,8 @@ I'm a **Computer Science Engineering student** focused on **Data Science, AI, ba
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🧠 Datadeciqo
-
-**AI-powered B2B SaaS for automated business data analysis & decision intelligence.**
-
-Connect business data → clean & analyze → detect patterns → investigate causes → predict outcomes → generate actionable recommendations.
-
-**Stack:** Python • FastAPI • PostgreSQL • Redis • Next.js • TypeScript • ML • LLMs
-
-🔗 **Private / In Development**
 
 ---
 
@@ -47,13 +38,6 @@ A backend-focused application for managing nutrition-related data and workflows.
 
 🔗 [View Repository](https://github.com/khush094sharma-glitch/Nutrition-Management-System)
 
----
-
-### ⚡ UrjaSiddhi
-
-Smart energy monitoring system designed to monitor industrial machine energy consumption and detect abnormal usage patterns.
-
-**Stack:** ESP32 • PZEM-004T • FastAPI • InfluxDB • Python • Machine Learning
 
 ---
 
