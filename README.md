@@ -1,13 +1,3 @@
-<div align="center">
-
-<img
-  src="./assets/header.svg"
-  alt="Animated neural orbit header for Khushboo Sharma, Data Scientist"
-  width="100%"
-/>
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm Khushboo Sharma</h1>
 
 <h3 align="center">Data Scientist</h3>
@@ -36,8 +26,6 @@
     />
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -155,33 +143,4 @@ A backend-focused application for managing nutrition-related data and workflows.
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=khush094sharma-glitch&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"
-      alt="GitHub achievements and trophies for Khushboo Sharma"
-    />
-  </a>
-</p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:khush094sharma@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Khushboo Sharma"
-    />
-  </a>
-
-  <a href="https://github.com/khush094sharma-glitch">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub profile for Khushboo Sharma"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learn. Build. Test. Improve.</i>
-</p>
+      alt="GitHub achievements and
