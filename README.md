@@ -1,247 +1,172 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════
+     KHUSHBOO SHARMA · DATA SCIENTIST
+     Visual identity: “Structured Signal”
+     An editorial, data-led profile: precise typography,
+     restrained contrast, and a single continuous visual system.
+     ═══════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KHUSHBOO%20SHARMA&fontSize=52&fontColor=eaeaea&desc=DATA%20SCIENTIST&descSize=17&descAlignY=74&descAlign=50&animation=fadeIn&color=0:08080f,35:160b2e,65:1b2a4a,100:020617&stroke=8e2de2&strokeWidth=1"
-  alt="Obsidian Intelligence header for Khushboo Sharma, Data Scientist"
-  width="100%"
-/>
+<div align="left">
+
+# KHUSHBOO&nbsp;SHARMA  
+### Data Scientist
+
+<br/>
+
+**I work at the intersection of data, systems, and software—**  
+turning questions into structure, structure into analysis, and analysis into useful products.
 
 <br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=7DF9FF&center=true&vCenter=true&width=680&lines=Data+Science+%C2%B7+AI+%C2%B7+Machine+Learning;Analytical+Thinking+%C2%B7+Backend+Systems;Software+Development+%C2%B7+Problem+Solving"
-    alt="Animated interests: Data Science, AI, Machine Learning, analytical thinking, backend systems, and software development"
+    src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=400&size=15&pause=1800&color=B8B8C4&background=00000000&center=false&vCenter=false&width=520&lines=%3E+data+science+%7C+AI+%7C+machine+learning;%3E+analytical+thinking+%7C+backend+systems;%3E+software+development+%7C+problem+solving"
+    alt="Typing line: data science, AI, machine learning, analytical thinking, backend systems, software development, and problem solving"
   />
 </a>
 
 <br/>
 
-<a href="https://github.com/khush094sharma-glitch">
-  <img
-    src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=PROFILE+VIEWS&color=8e2de2&style=flat-square&abbreviated=true"
-    alt="Profile view count for Khushboo Sharma"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/khush094sharma-glitch?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/khush094sharma-glitch?label=FOLLOWERS&style=flat-square&color=00e5ff&logo=github&logoColor=white"
-    alt="GitHub followers for Khushboo Sharma"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8e2de2,50:7df9ff,100:8e2de2"
-  alt="Violet and cyan separator"
-  width="78%"
-/>
+[![GitHub](https://img.shields.io/badge/github-khush094sharma--glitch-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/khush094sharma-glitch)  
+[![Email](https://img.shields.io/badge/email-khush094sharma%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:khush094sharma@gmail.com)
 
 </div>
 
-## `// about`
+---
 
-```python
-class KhushbooSharma:
-    role = "Data Scientist"
-    education = "Computer Science Engineering"
+## 01 — Profile
 
-    interests = [
-        "Data Science",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-    ]
+<table>
+<tr>
+<td width="58%" valign="top">
 
-    def approach(self) -> str:
-        return "Explore data, design carefully, build reliably, improve continuously."
+### A structured approach  
+to intelligent systems
+
+I am a **Computer Science Engineering student** and **Data Scientist** focused on **Data Science, AI/ML, and software development**.
+
+My work begins with a clear question: what needs to be understood, modeled, or built? From there, I focus on clean data handling, dependable backend design, and software that remains practical beyond a prototype.
+
+I am currently developing my practice across data analysis, machine learning, APIs, databases, and full-stack development.
+
+</td>
+<td width="42%" valign="top">
+
+```text
+┌───────────────────────────┐
+│  PROFILE                  │
+├───────────────────────────┤
+│  name      Khushboo Sharma│
+│  role      Data Scientist │
+│  field     CS Engineering │
+│                       │
+│  focus                    │
+│  · Data Science           │
+│  · AI / Machine Learning  │
+│  · Software Development   │
+│                       │
+│  method                   │
+│  question → data →        │
+│  structure → product      │
+└───────────────────────────┘
 ```
 
-I am a **Computer Science Engineering student** exploring **Data Science, AI/ML, and software development**.  
-I am interested in building clean backend systems, working with data, and developing practical analytical applications.
+</td>
+</tr>
+</table>
 
-<div align="center">
+---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:8e2de2,100:1b2a4a"
-  alt="Section separator"
-  width="100%"
-/>
+## 02 — Selected Work
 
-</div>
-
-## `// featured work`
-
-<div align="center">
-
-### NUTRITION MANAGEMENT SYSTEM
+### Nutrition Management System
 
 **A backend-focused application for managing nutrition-related data and workflows.**
 
-<br/>
+The project emphasizes structured data handling and backend workflows: organizing nutrition-related information, supporting application logic, and maintaining a clear separation between data, services, and presentation.
+
+| Layer | Technologies |
+|---|---|
+| Backend | Python · Django |
+| Database | MySQL |
+| Interface | HTML · CSS |
 
 <a href="https://github.com/khush094sharma-glitch/Nutrition-Management-System">
-  <img
-    src="https://img.shields.io/badge/OPEN%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8e2de2"
-    alt="Open the Nutrition Management System repository"
-  />
+  <img src="https://img.shields.io/badge/view%20repository-%E2%86%97-111111?style=flat-square&labelColor=111111&color=B8B8C4" alt="Open the Nutrition Management System repository on GitHub" />
 </a>
 
-<br/><br/>
+---
 
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-  alt="Python"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
-  alt="Django"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
-  alt="MySQL"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
-  alt="HTML"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"
-  alt="CSS"
-/>
+## 03 — Toolkit
 
-</div>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:00e5ff,100:1b2a4a"
-  alt="Section separator"
-  width="100%"
-/>
-
-</div>
-
-## `// technology`
+A working set of technologies I use and explore. It is intentionally grouped by function rather than displayed as an unrestricted collection of icons.
 
 <table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>LANGUAGES</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=3" alt="Python, TypeScript, JavaScript, HTML, and CSS icons" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>DATA SCIENCE</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas icon" />
-      <br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn icon" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>BACKEND & DATA</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis&perline=3" alt="FastAPI, Django, PostgreSQL, MySQL, and Redis icons" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>FRONTEND & TOOLS</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,docker,vscode&perline=3" alt="React, Next.js, Tailwind CSS, Git, GitHub, Docker, and VS Code icons" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript&perline=3" alt="Python, TypeScript, and JavaScript icons" />
+</p>
+
+#### Data & Intelligence
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas icon" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn icon" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### Systems & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis&perline=3" alt="FastAPI, Django, PostgreSQL, MySQL, and Redis icons" />
+</p>
+
+#### Interfaces & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,docker,vscode&perline=4" alt="React, Next.js, Tailwind CSS, Git, GitHub, Docker, and Visual Studio Code icons" />
+</p>
+
+</td>
+</tr>
 </table>
 
-<div align="center">
+---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08080f,50:8e2de2,100:08080f"
-  alt="Section separator"
-  width="100%"
-/>
+## 04 — Signal
 
-</div>
+```text
+        data ───────▶ structure ───────▶ insight ───────▶ product
+          │               │                │               │
+       question        clean model      interpretation   useful software
+```
 
-## `// github intelligence`
+I approach technical work as a sequence of decisions: define the question, understand the data, create structure, interpret the result, and build something useful from it.
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&hide_title=true&title_color=7df9ff&text_color=c9d1d9&icon_color=8e2de2&bg_color=08080f"
-    height="158"
-    alt="GitHub statistics dashboard for Khushboo Sharma"
-  />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&hide_title=true&title_color=7df9ff&text_color=c9d1d9&bg_color=08080f"
-    height="158"
-    alt="Most-used programming languages for Khushboo Sharma"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=08080f&color=7df9ff&line=8e2de2&point=00e5ff&area_color=160b2e"
-    alt="GitHub contribution activity graph for Khushboo Sharma"
-    width="100%"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/joey-the-33rd/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=khush094sharma-glitch&hide_border=true&background=08080F&stroke=1B2A4A&ring=8E2DE2&fire=00E5FF&currStreakLabel=7DF9FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub contribution streak for Khushboo Sharma"
-  />
-</a>
-
-</div>
+---
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:8e2de2,100:1b2a4a"
-  alt="Section separator"
-  width="100%"
-/>
+<sub>
 
-</div>
+**KHUSHBOO SHARMA** · Data Scientist  
+`data · systems · software`
 
-## `// connect`
+</sub>
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/khush094sharma-glitch">
-  <img
-    src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8e2de2"
-    alt="GitHub profile for Khushboo Sharma"
-  />
+  <img src="https://img.shields.io/badge/github-%E2%86%97-111111?style=flat-square&labelColor=111111&color=B8B8C4" alt="GitHub profile for Khushboo Sharma" />
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="mailto:khush094sharma@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00e5ff"
-    alt="Email Khushboo Sharma"
-  />
+  <img src="https://img.shields.io/badge/email-%E2%86%97-111111?style=flat-square&labelColor=111111&color=B8B8C4" alt="Email Khushboo Sharma" />
 </a>
-
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,40:160b2e,75:1b2a4a,100:08080f"
-  alt="Dark violet and navy footer"
-  width="100%"
-/>
 
 </div>
