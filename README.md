@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&height=300&section=header&text=KHUSHBOO%20SHARMA&fontSize=56&fontColor=F8FAFC&desc=DATA%20SCIENTIST%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20SOFTWARE&descSize=16&descAlignY=78&descAlign=50&animation=scaleIn&color=0:05060F,22:312E81,45:7C3AED,68:0EA5E9,88:C084FC,100:05060F&stroke=A855F7&strokeWidth=1"
-  alt="Aurora Data Atelier header for Khushboo Sharma, Data Scientist, with a soft blurred gradient and scale-in animation"
+  src="./assets/header.svg"
+  alt="Animated neural orbit header for Khushboo Sharma, Data Scientist"
   width="100%"
 />
 
@@ -10,8 +10,8 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=C4B5FD&center=true&vCenter=true&width=780&lines=Data+Science+%C2%B7+AI+%C2%B7+Machine+Learning;Analytical+Thinking+%C2%B7+Problem+Solving;Backend+Systems+%C2%B7+Software+Development;Turning+data+into+useful+products"
-    alt="Animated introduction covering data science, AI, machine learning, analytical thinking, backend systems, software development, and building data products"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=C4B5FD&center=true&vCenter=true&width=720&lines=Data+Science+%C2%B7+AI+%C2%B7+Machine+Learning;Analytical+Thinking+%C2%B7+Problem+Solving;Backend+Systems+%C2%B7+Software+Development"
+    alt="Animated interests: Data Science, AI, Machine Learning, analytical thinking, problem solving, backend systems, and software development"
   />
 </a>
 
@@ -146,13 +146,11 @@ class KhushbooSharma:
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:7C3AED,35:A855F7,65:0EA5E9,100:22D3EE&text=NUTRITION%20MANAGEMENT%20SYSTEM&fontSize=28&fontColor=FFFFFF&desc=Backend-focused%20nutrition%20data%20and%20workflow%20application&descSize=14&descAlignY=78&animation=fadeIn"
-  alt="Nutrition Management System project banner"
-  width="100%"
-/>
+### NUTRITION MANAGEMENT SYSTEM
 
-<br/><br/>
+**A backend-focused application for managing nutrition-related data and workflows.**
+
+<br/>
 
 <a href="https://github.com/khush094sharma-glitch/Nutrition-Management-System">
   <img
@@ -365,10 +363,9 @@ class KhushbooSharma:
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&height=150&section=footer&animation=fadeIn&color=0:05060F,25:312E81,55:7C3AED,80:0EA5E9,100:05060F"
-  alt="Aurora gradient footer with a smooth fade-in animation"
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,25:312E81,55:7C3AED,80:0EA5E9,100:05060F"
+  alt="Aurora gradient footer"
   width="100%"
 />
 
 </div>
-
