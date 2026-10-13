@@ -1,189 +1,85 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     KHUSHBOO SHARMA · DATA SCIENTIST
-     TERMINAL / HACKER INTERFACE
-     ═══════════════════════════════════════════════════════════════ -->
-
+```md
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ██╗  ██╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗██████╗  ██████╗ ██████╗ │
-│   ██║  ██║██║  ██║██║   ██║██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔══██╗│
-│   ███████║███████║██║   ██║███████╗███████║██████╔╝██║   ██║██████╔╝│
-│   ██╔══██║██╔══██║██║   ██║╚════██║██╔══██║██╔══██╗██║   ██║██╔══██╗│
-│   ██║  ██║██║  ██║╚██████╔╝███████║██║  ██║██████╔╝╚██████╔╝██║  ██║│
-│   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝│
-│                                                                      │
-│                      S H A R M A  ·  DATA SCIENTIST                  │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B18&height=170&section=header&text=KHUSHBOO%20SHARMA&fontSize=42&fontColor=E9E7FF&fontAlignY=43&desc=DATA%20SCIENTIST%20IN%20PROGRESS&descSize=14&descColor=70F0E0&descAlignY=67" width="100%" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=680&lines=%3E+initializing+data+science+module...;%3E+loading+AI+%2F+ML+capabilities...;%3E+analytical+thinking+enabled.;%3E+backend+systems+%7C+software+development;%3E+status%3A+building%2C+learning%2C+improving"
-    alt="Terminal-style animated typing: initializing data science module, loading AI and ML capabilities, analytical thinking enabled, backend systems and software development, status building learning improving"
-  />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=70F0E0&center=true&vCenter=true&width=600&lines=Turning+data+into+understanding.;Learning+Python+%7C+SQL+%7C+Machine+Learning.;Building+projects.+Improving+every+day." alt="Typing introduction" />
 
-<br/><br/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-khush094sharma--glitch-000000?style=flat-square&logo=github&logoColor=00FF9C)](https://github.com/khush094sharma-glitch)  
-[![Email](https://img.shields.io/badge/EMAIL-khush094sharma%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:khush094sharma@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=khush094sharma-glitch&style=flat&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/khush094sharma-glitch)
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 / ABOUT`
 
-```bash
-$ whoami
-khushboo_sharma
+I'm a Computer Science student focused on **Data Science**.
 
-$ cat profile.txt
-ROLE        → Data Scientist
-EDUCATION   → Computer Science Engineering
-FOCUS       → Data Science · AI/ML · Software Development
-APPROACH    → Understand the problem, explore the data,
-              build reliable systems, improve continuously.
+I’m building my foundation in programming, data analysis, and machine learning by learning concepts and applying them through projects.
 
-$ ls interests/
-data_science/
-artificial_intelligence/
-machine_learning/
-backend_systems/
-software_development/
+```python
+class Khushboo:
+    focus = "Data Science"
+    learning = ["Python", "SQL", "Machine Learning"]
+    approach = "Learn → Build → Improve"
 ```
 
-I am a **Computer Science Engineering student** and **Data Scientist** focused on **Data Science, AI/ML, and software development**. I am interested in working with data, building dependable backend systems, and developing practical software applications.
-
----
-
-## `> featured_project`
-
-```bash
-$ cd ~/projects/nutrition-management-system
-$ ls -la
-drwxr-xr-x  backend/
-drwxr-xr-x  database/
-drwxr-xr-x  templates/
--rw-r--r--  README.md
-```
-
-### Nutrition Management System
-
-A backend-focused application for managing nutrition-related data and workflows.
-
-| Module | Details |
-|---|---|
-| **Purpose** | Manage nutrition-related data and application workflows |
-| **Backend** | Python · Django |
-| **Database** | MySQL |
-| **Interface** | HTML · CSS |
-| **Status** | Public repository |
-
-<a href="https://github.com/khush094sharma-glitch/Nutrition-Management-System">
-  <img src="https://img.shields.io/badge/%24_open_repository-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="Open the Nutrition Management System repository on GitHub" />
-</a>
-
----
-
-## `> tech_stack`
-
-```bash
-$ ls ~/toolkit/
-languages/  data_science/  backend/  frontend/  tools/
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### `languages/`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=3" alt="Python, TypeScript, JavaScript, HTML, and CSS icons" />
-</p>
-
-#### `data_science/`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas icon" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn icon" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-#### `backend/`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis&perline=3" alt="FastAPI, Django, PostgreSQL, MySQL, and Redis icons" />
-</p>
-
-#### `frontend/`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" alt="React, Next.js, and Tailwind CSS icons" />
-</p>
-
-#### `tools/`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4" alt="Git, GitHub, Docker, and Visual Studio Code icons" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## `> system_process`
-
-```text
-┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
-│ QUESTION │ ──▶ │   DATA   │ ──▶ │  MODEL   │ ──▶ │  PRODUCT │
-└──────────┘     └──────────┘     └──────────┘     └──────────┘
-      │               │                │                │
-      ▼               ▼                ▼                ▼
- define goal     clean & explore   analyze & learn   build & improve
-```
-
----
-
-## `> contact`
-
-```bash
-$ ping khushboo
-GITHUB  → [https://github.com/khush094sharma-glitch](https://github.com/khush094sharma-glitch)
-EMAIL   → khush094sharma@gmail.com
-STATUS  → open to learning, building, and collaborating
-```
+## `02 / TOOLKIT`
 
 <div align="center">
 
-<a href="https://github.com/khush094sharma-glitch">
-  <img src="https://img.shields.io/badge/%24_github-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub profile for Khushboo Sharma" />
-</a>
+### LANGUAGES & DEVELOPMENT
 
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode&theme=dark" alt="Programming and development tools" />
 
-<a href="mailto:khush094sharma@gmail.com">
-  <img src="https://img.shields.io/badge/%24_email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email Khushboo Sharma" />
-</a>
+### DATA & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="46" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="46" alt="Scikit-learn" />
+
+</div>
+
+## `03 / SELECTED WORK`
+
+### Nutrition Management System
+
+A project focused on nutrition management.
+
+[**↗ Explore the repository**](https://github.com/khush094sharma-glitch/Nutrition-Management-System)
+
+---
+
+## `04 / GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&hide_border=true&bg_color=0B0B18&title_color=70F0E0&text_color=E9E7FF&icon_color=9B8CFF&rank_icon=github" width="95%" alt="GitHub statistics" />
 
 <br/><br/>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  SESSION ENDED                                           │
-│  learn · build · analyze · improve                       │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&hide_border=true&bg_color=0B0B18&title_color=70F0E0&text_color=E9E7FF" width="75%" alt="Most used programming languages" />
 
 </div>
+
+---
+
+<div align="center">
+
+### LET'S CONNECT
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B0B18?style=for-the-badge&logo=github&logoColor=70F0E0)](https://github.com/khush094sharma-glitch)
+[![Email](https://img.shields.io/badge/Email-0B0B18?style=for-the-badge&logo=gmail&logoColor=70F0E0)](mailto:khush094sharma@gmail.com)
+
+<br/>
+
+<sub><i>Curiosity in. Insights out.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B18&height=55&section=footer" width="100%" />
+
+</div>
+```
