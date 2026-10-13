@@ -1,175 +1,247 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0f0c29,50:302b63,100:24243e&text=Khushboo%20Sharma&fontSize=42&fontColor=ffffff&stroke=8e2de2&strokeWidth=1&desc=Data%20Scientist&descSize=18&descAlignY=72&descAlign=50" alt="Header banner for Khushboo Sharma, Data Scientist" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KHUSHBOO%20SHARMA&fontSize=52&fontColor=eaeaea&desc=DATA%20SCIENTIST&descSize=17&descAlignY=74&descAlign=50&animation=fadeIn&color=0:08080f,35:160b2e,65:1b2a4a,100:020617&stroke=8e2de2&strokeWidth=1"
+  alt="Obsidian Intelligence header for Khushboo Sharma, Data Scientist"
+  width="100%"
+/>
 
-<h1 align="center">Hi, I'm Khushboo Sharma</h1>
-
-<h3 align="center">Data Scientist</h3>
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=760&lines=Data+Science;Artificial+Intelligence;Analytical+Thinking;Software+Development" alt="Animated typing text: Data Science, Artificial Intelligence, Analytical Thinking, Software Development" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=7DF9FF&center=true&vCenter=true&width=680&lines=Data+Science+%C2%B7+AI+%C2%B7+Machine+Learning;Analytical+Thinking+%C2%B7+Backend+Systems;Software+Development+%C2%B7+Problem+Solving"
+    alt="Animated interests: Data Science, AI, Machine Learning, analytical thinking, backend systems, and software development"
+  />
 </a>
 
 <br/>
 
 <a href="https://github.com/khush094sharma-glitch">
-  <img src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=Profile+Views&color=8e2de2&style=flat-square" alt="GitHub profile view count" />
+  <img
+    src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=PROFILE+VIEWS&color=8e2de2&style=flat-square&abbreviated=true"
+    alt="Profile view count for Khushboo Sharma"
+  />
 </a>
+
+&nbsp;
 
 <a href="https://github.com/khush094sharma-glitch?tab=followers">
-  <img src="https://img.shields.io/github/followers/khush094sharma-glitch?label=Followers&style=flat-square&color=00e5ff&logo=github" alt="GitHub follower count" />
+  <img
+    src="https://img.shields.io/github/followers/khush094sharma-glitch?label=FOLLOWERS&style=flat-square&color=00e5ff&logo=github&logoColor=white"
+    alt="GitHub followers for Khushboo Sharma"
+  />
 </a>
 
-<a href="https://github.com/khush094sharma-glitch?tab=repositories">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%C2%B7%20AI%20%C2%B7%20ML-8e2de2?style=flat-square" alt="Focus areas: Data Science, AI, and Machine Learning" />
-</a>
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8e2de2,50:7df9ff,100:8e2de2"
+  alt="Violet and cyan separator"
+  width="78%"
+/>
 
 </div>
 
----
-
-## About
+## `// about`
 
 ```python
 class KhushbooSharma:
-    def __init__(self):
-        self.role = "Data Scientist"
-        self.education = "Computer Science Engineering"
-        self.interests = ["Data Science", "AI", "Machine Learning", "Software Development"]
-        self.current_focus = "Building practical, data-driven applications"
+    role = "Data Scientist"
+    education = "Computer Science Engineering"
 
-    def approach(self):
-        return "Understand the problem, explore the data, build carefully, and improve iteratively."
+    interests = [
+        "Data Science",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Development",
+    ]
+
+    def approach(self) -> str:
+        return "Explore data, design carefully, build reliably, improve continuously."
 ```
 
-I am a **Computer Science Engineering student** focused on **Data Science, AI/ML, and software development**. I enjoy working with data, designing reliable backend systems, and turning analytical ideas into practical applications.
-
----
-
-## Featured Project
+I am a **Computer Science Engineering student** exploring **Data Science, AI/ML, and software development**.  
+I am interested in building clean backend systems, working with data, and developing practical analytical applications.
 
 <div align="center">
 
-### Nutrition Management System
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:8e2de2,100:1b2a4a"
+  alt="Section separator"
+  width="100%"
+/>
 
-A backend-focused application for managing nutrition-related data and workflows.
+</div>
 
-**Stack:** Python · Django · MySQL · HTML · CSS
+## `// featured work`
+
+<div align="center">
+
+### NUTRITION MANAGEMENT SYSTEM
+
+**A backend-focused application for managing nutrition-related data and workflows.**
+
+<br/>
 
 <a href="https://github.com/khush094sharma-glitch/Nutrition-Management-System">
-  <img src="https://img.shields.io/badge/View_Repository-8e2de2?style=for-the-badge&logo=github&logoColor=white" alt="Open the Nutrition Management System repository on GitHub" />
+  <img
+    src="https://img.shields.io/badge/OPEN%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8e2de2"
+    alt="Open the Nutrition Management System repository"
+  />
 </a>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+  alt="Python"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
+  alt="Django"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
+  alt="HTML"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"
+  alt="CSS"
+/>
 
 </div>
 
----
+<div align="center">
 
-## Technology Stack
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:00e5ff,100:1b2a4a"
+  alt="Section separator"
+  width="100%"
+/>
 
-### Languages
+</div>
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-</p>
+## `// technology`
 
-### Data Science
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>LANGUAGES</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=3" alt="Python, TypeScript, JavaScript, HTML, and CSS icons" />
+    </td>
+    <td width="25%" valign="top">
+      <strong>DATA SCIENCE</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=pandas&perline=3" alt="Pandas icon" />
+      <br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn icon" />
+    </td>
+    <td width="25%" valign="top">
+      <strong>BACKEND & DATA</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis&perline=3" alt="FastAPI, Django, PostgreSQL, MySQL, and Redis icons" />
+    </td>
+    <td width="25%" valign="top">
+      <strong>FRONTEND & TOOLS</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,docker,vscode&perline=3" alt="React, Next.js, Tailwind CSS, Git, GitHub, Docker, and VS Code icons" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" /></a>
-</p>
+<div align="center">
 
-### Backend & Databases
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:08080f,50:8e2de2,100:08080f"
+  alt="Section separator"
+  width="100%"
+/>
 
-<p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
-</p>
+</div>
 
-### Frontend
-
-<p align="center">
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-</p>
-
-### Tools
-
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
-</p>
-
----
-
-## GitHub Analytics
+## `// github intelligence`
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=8e2de2&bg_color=0d1117" height="165" alt="GitHub statistics for khush094sharma-glitch" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&hide_title=true&title_color=7df9ff&text_color=c9d1d9&icon_color=8e2de2&bg_color=08080f"
+    height="158"
+    alt="GitHub statistics dashboard for Khushboo Sharma"
+  />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Most-used programming languages for khush094sharma-glitch" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&hide_title=true&title_color=7df9ff&text_color=c9d1d9&bg_color=08080f"
+    height="158"
+    alt="Most-used programming languages for Khushboo Sharma"
+  />
 </a>
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=0d1117&color=7df9ff&line=8e2de2&point=00e5ff&area_color=302b63" alt="GitHub contribution activity graph for khush094sharma-glitch" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=08080f&color=7df9ff&line=8e2de2&point=00e5ff&area_color=160b2e"
+    alt="GitHub contribution activity graph for Khushboo Sharma"
+    width="100%"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joey-the-33rd/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com/?user=khush094sharma-glitch&hide_border=true&background=08080F&stroke=1B2A4A&ring=8E2DE2&fire=00E5FF&currStreakLabel=7DF9FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub contribution streak for Khushboo Sharma"
+  />
 </a>
 
 </div>
-
-### Contribution Streak
 
 <div align="center">
 
-<a href="https://github.com/joey-the-33rd/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=khush094sharma-glitch&hide_border=true&background=0D1117&stroke=302B63&ring=8E2DE2&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak for khush094sharma-glitch" />
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1b2a4a,50:8e2de2,100:1b2a4a"
+  alt="Section separator"
+  width="100%"
+/>
 
 </div>
 
----
-
-## Connect
+## `// connect`
 
 <div align="center">
 
 <a href="https://github.com/khush094sharma-glitch">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile: khush094sharma-glitch" />
+  <img
+    src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8e2de2"
+    alt="GitHub profile for Khushboo Sharma"
+  />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:khush094sharma@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Khushboo Sharma" />
+  <img
+    src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00e5ff"
+    alt="Email Khushboo Sharma"
+  />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8e2de2,50:00e5ff,100:8e2de2" alt="Decorative divider" width="100%" />
-
-<i>Learn · Build · Test · Improve</i>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,40:160b2e,75:1b2a4a,100:08080f"
+  alt="Dark violet and navy footer"
+  width="100%"
+/>
 
 </div>
