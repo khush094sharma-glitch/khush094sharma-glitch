@@ -42,173 +42,38 @@
   />
 </a>
 
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:A855F7,25:C084FC,50:22D3EE,75:818CF8,100:A855F7"
-  alt="Aurora gradient divider"
-  width="88%"
-/>
-
 </div>
 
-## ✦ Profile
+---
 
-<div align="center">
+## 👋 About Me
 
-```python
-class KhushbooSharma:
-    role = "Data Scientist"
-    education = "Computer Science Engineering"
+I’m **Khushboo Sharma**, a **Data Scientist** and **Computer Science Engineering student**.
 
-    interests = [
-        "Data Science",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-    ]
+I’m interested in **Data Science, AI/ML, and software development**. I enjoy exploring data, building backend systems, and developing practical software applications.
 
-    def approach(self):
-        return "Explore data, design carefully, build reliably, improve continuously."
-```
+- 🔭 Currently learning and building with **Data Science, AI/ML, and backend development**
+- 🌱 Exploring **machine learning, APIs, databases, and full-stack development**
+- 💡 Interested in turning data into useful, reliable applications
+- 📫 Reach me at **khush094sharma@gmail.com**
 
-</div>
+---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## 🚀 Projects
 
-### 🎯 Focus
+### 🥗 Nutrition Management System
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas&perline=2&theme=dark" alt="Python and Pandas icons" />
-</p>
+A backend-focused application for managing nutrition-related data and workflows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-A855F7?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Science" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI and Machine Learning" />
-</p>
-
-</td>
-
-<td width="34%" valign="top">
-
-### 🧠 Strengths
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django&perline=2&theme=dark" alt="FastAPI and Django icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytical%20Thinking-22D3EE?style=for-the-badge&logo=brain&logoColor=black" alt="Analytical Thinking" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-C084FC?style=for-the-badge&logo=abstract&logoColor=white" alt="Problem Solving" />
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛠️ Building
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2&theme=dark" alt="React and Next.js icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Systems-0EA5E9?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Systems" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-818CF8?style=for-the-badge&logo=codeium&logoColor=white" alt="Software Development" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,20:A855F7,45:C084FC,70:22D3EE,100:05060F"
-  alt="Aurora gradient divider"
-  width="100%"
-/>
-
-</div>
-
-## 🚀 Featured Work
-
-<div align="center">
-
-### NUTRITION MANAGEMENT SYSTEM
-
-**A backend-focused application for managing nutrition-related data and workflows.**
-
-<br/>
+**Tech stack:** Python · Django · MySQL · HTML · CSS
 
 <a href="https://github.com/khush094sharma-glitch/Nutrition-Management-System">
-  <img
-    src="https://img.shields.io/badge/OPEN%20REPOSITORY-A855F7?style=for-the-badge&logo=github&logoColor=white"
-    alt="Open the Nutrition Management System repository on GitHub"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Open the Nutrition Management System repository on GitHub" />
 </a>
 
-<br/><br/>
+---
 
-<table>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" /><br/>
-**Python**
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django icon" /><br/>
-**Django**
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL icon" /><br/>
-**MySQL**
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /><br/>
-**HTML**
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /><br/>
-**CSS**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,20:22D3EE,45:A855F7,70:C084FC,100:05060F"
-  alt="Aurora gradient divider"
-  width="100%"
-/>
-
-</div>
-
-## 🧰 Toolkit
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -236,47 +101,45 @@ class KhushbooSharma:
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3&theme=dark" alt="React, Next.js, and Tailwind CSS icons" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4&theme=dark" alt="Git, GitHub, Docker, and Visual Studio Code icons" />
 </p>
 
-<div align="center">
+---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,20:C084FC,45:A855F7,70:22D3EE,100:05060F"
-  alt="Aurora gradient divider"
-  width="100%"
-/>
-
-</div>
-
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&hide_title=true&title_color=C4B5FD&text_color=E5E7EB&icon_color=22D3EE&bg_color=05060F"
-    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&title_color=C4B5FD&text_color=E5E7EB&icon_color=22D3EE&bg_color=0B0B16"
+    height="170"
     alt="GitHub statistics dashboard for Khushboo Sharma"
   />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&hide_title=true&title_color=C4B5FD&text_color=E5E7EB&bg_color=05060F"
-    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&title_color=C4B5FD&text_color=E5E7EB&bg_color=0B0B16"
+    height="170"
     alt="Most-used programming languages for Khushboo Sharma"
   />
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=05060F&color=22D3EE&line=A855F7&point=C4B5FD&area_color=312E81"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=0B0B16&color=22D3EE&line=A855F7&point=C4B5FD&area_color=312E81"
     alt="GitHub contribution activity graph for Khushboo Sharma"
     width="100%"
   />
@@ -284,69 +147,15 @@ class KhushbooSharma:
 
 </div>
 
-<div align="center">
+---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,20:A855F7,45:22D3EE,70:C084FC,100:05060F"
-  alt="Aurora gradient divider"
-  width="100%"
-/>
-
-</div>
-
-## 🌗 Process
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/QUESTION-A855F7?style=for-the-badge&logo=helpdesk&logoColor=white" alt="Question" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/DATA-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/STRUCTURE-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Structure" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/INSIGHT-22D3EE?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Insight" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/PRODUCT-C084FC?style=for-the-badge&logo=rocket&logoColor=white" alt="Product" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,20:22D3EE,45:A855F7,75:C084FC,100:05060F"
-  alt="Aurora gradient divider"
-  width="100%"
-/>
-
-</div>
-
-## 📬 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/khush094sharma-glitch">
   <img
-    src="https://img.shields.io/badge/GITHUB-0B0B16?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7"
+    src="https://img.shields.io/badge/GitHub-0B0B16?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7"
     alt="GitHub profile for Khushboo Sharma"
   />
 </a>
@@ -355,17 +164,25 @@ class KhushbooSharma:
 
 <a href="mailto:khush094sharma@gmail.com">
   <img
-    src="https://img.shields.io/badge/EMAIL-0B0B16?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22D3EE"
+    src="https://img.shields.io/badge/Email-0B0B16?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22D3EE"
     alt="Email Khushboo Sharma"
   />
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05060F,25:312E81,55:7C3AED,80:0EA5E9,100:05060F"
-  alt="Aurora gradient footer"
-  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A855F7,25:C084FC,50:22D3EE,75:818CF8,100:A855F7"
+  alt="Aurora gradient divider"
+  width="80%"
 />
+
+<br/>
+
+<i>Learning · Building · Analyzing · Improving</i>
 
 </div>
