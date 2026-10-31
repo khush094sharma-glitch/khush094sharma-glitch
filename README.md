@@ -297,17 +297,9 @@ flowchart LR
 
 <div align="center">
 
-### CONTRIBUTION SNAKE
-
-<img width="100%" src="https://raw.githubusercontent.com/khush094sharma-glitch/output/main/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2"/>
-
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/khush094sharma-glitch/khush094sharma-glitch/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Curiosity+is+the+starting+point.;Building+is+the+real+learning.;Every+iteration+brings+growth.;Challenge+the+default.;Impact+is+the+goal.;The+best+work+never+stops+evolving." />
 
