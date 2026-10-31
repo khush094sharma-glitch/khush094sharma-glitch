@@ -1,9 +1,7 @@
 
 <div align="center">
-
-<img width="100%" height="230" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=KHUSHBOO%20SHARMA&fontSize=52&fontColor=ffffff&stroke=58A6FF&strokeWidth=1&animation=fadeIn&color=0:050816,40:101C3A,100:0B1224&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE&descSize=14&descAlignY=75" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+technology.;Building+real-world+software.;Exploring+the+world+of+AI+and+data.;Curiosity+%E2%86%92+Code+%E2%86%92+Creation." />
+  <img width="100%" src="https://raw.githubusercontent.com/khush094sharma-glitch/khush094sharma-glitch/main/name-banner.svg" alt="Khushboo Sharma"/>
+</div>
 
 <br/>
 
