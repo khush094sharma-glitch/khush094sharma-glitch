@@ -2,7 +2,7 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/khush094sharma-glitch/khush094sharma-glitch/main/name-banner.svg" alt="Khushboo Sharma"/>
 </div>
-
+<div align="center">
 <br/>
 
 <a href="https://linkedin.com/in/khushboo-sharma-943648301">
@@ -29,17 +29,22 @@
 <tr>
 <td width="58%" valign="middle">
 
-## ◈ THE BUILDER
 
-### Hello, I'm Khushboo.
 
-Computer Science student. Technology enthusiast. Builder in progress.
+## ◈ About Me
 
-I enjoy turning ideas into practical applications, exploring intelligent systems, and understanding how software can solve real problems.
+### Hello, I'm Khushboo Sharma
+
+Computer Science Engineering student with a curiosity for technology and a passion for building.
+
+I enjoy exploring ideas, developing practical applications, and understanding how technology can solve real-world problems. I'm particularly interested in Data Science, AI, and software development.
+
+I believe in learning by building, experimenting with new possibilities, and improving with every project.
+
 
 **My direction**
 
-`DATA` → `INTELLIGENCE` → `PRODUCTS`
+'VISION' → 'ACTION' → 'RESULTS'
 
 </td>
 <td width="42%" align="center">
@@ -70,7 +75,7 @@ I enjoy turning ideas into practical applications, exploring intelligent systems
 
 **ARTIFICIAL INTELLIGENCE**
 
-<sub>Exploring intelligent products</sub>
+<sub>Engineering the Future</sub>
 
 </td>
 <td align="center" width="25%">
@@ -79,7 +84,7 @@ I enjoy turning ideas into practical applications, exploring intelligent systems
 
 **DATA SCIENCE**
 
-<sub>Finding meaning in data</sub>
+<sub>Turning Data into Insights</sub>
 
 </td>
 <td align="center" width="25%">
@@ -88,7 +93,7 @@ I enjoy turning ideas into practical applications, exploring intelligent systems
 
 **SOFTWARE DEVELOPMENT**
 
-<sub>Building useful applications</sub>
+<sub>Creating What Matters</sub>
 
 </td>
 <td align="center" width="25%">
@@ -109,9 +114,9 @@ I enjoy turning ideas into practical applications, exploring intelligent systems
 
 <div align="center">
 
-# ◈ SELECTED PROJECTS
+# ◈ FEATURED PROJECTS
 
-<sub>Ideas transformed into engineering work.</sub>
+<sub>Concept to Creation</sub>
 
 </div>
 
@@ -178,7 +183,7 @@ A nutrition management application built to organize and manage nutrition-relate
 **Implementation**
 - Python application
 - MySQL database
-- Data management
+- API integration
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
@@ -197,7 +202,7 @@ A solar-powered mini cold-storage system concept focused on temperature-controll
 **Project direction**
 - Solar-powered storage
 - Environmental monitoring
-- Sensor-based system concept
+- Sensor-based system 
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
@@ -211,7 +216,7 @@ A solar-powered mini cold-storage system concept focused on temperature-controll
 
 <div align="center">
 
-# ◈ MY TECHNOLOGY UNIVERSE
+# ◈ TECH STACK
 
 <sub>A visual map of the tools I use.</sub>
 
@@ -239,7 +244,7 @@ A solar-powered mini cold-storage system concept focused on temperature-controll
 
 <div align="center">
 
-# ◈ HOW I THINK ABOUT BUILDING
+# ◈From Thought to Creation...
 
 </div>
 
@@ -304,7 +309,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Curiosity+is+the+starting+point.;Building+is+the+real+learning.;The+next+project+is+always+better." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Curiosity+is+the+starting+point.;Building+is+the+real+learning.;Every+iteration+brings+growth.;Challenge+the+default.;Impact+is+the+goal.;The+best+work+never+stops+evolving." />
 
 <br/>
 
@@ -314,7 +319,7 @@ flowchart LR
 
 <br/><br/>
 
-<sub>DESIGNED WITH INTENTION · KHUSHBOO SHARMA · 2026</sub>
+<sub>Learn. Build. Test. Improve</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:2563EB&height=120&section=footer"/>
 
