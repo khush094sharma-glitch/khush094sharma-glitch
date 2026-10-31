@@ -314,7 +314,7 @@ flowchart LR
 <br/>
 
 <a href="https://linkedin.com/in/khushboo-sharma-943648301">
-<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-#34D399?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
