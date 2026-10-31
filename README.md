@@ -256,12 +256,12 @@ flowchart LR
     D --> E["🚀 PRODUCT"]
     E --> F["📈 IMPROVEMENT"]
 
-    style A fill:#172554,stroke:#3B82F6,color:#fff
-    style B fill:#172554,stroke:#3B82F6,color:#fff
-    style C fill:#172554,stroke:#3B82F6,color:#fff
-    style D fill:#172554,stroke:#3B82F6,color:#fff
-    style E fill:#172554,stroke:#3B82F6,color:#fff
-    style F fill:#172554,stroke:#3B82F6,color:#fff
+    style A fill:#172554,stroke:#3B82F6,color:#A78BFA
+    style B fill:#172554,stroke:#3B82F6,color:#A78BFA
+    style C fill:#172554,stroke:#3B82F6,color:#A78BFA
+    style D fill:#172554,stroke:#3B82F6,color:#A78BFA
+    style E fill:#172554,stroke:#3B82F6,color:#A78BFA
+    style F fill:#172554,stroke:#3B82F6,color:#A78BFA
 ```
 
 <br/>
