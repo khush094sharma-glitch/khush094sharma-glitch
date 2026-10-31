@@ -1,146 +1,323 @@
-<h1 align="center">Hi 👋, I'm Khushboo Sharma</h1>
 
-<h3 align="center">Data Scientist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/khush094sharma-glitch">
-    <img
-      src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&label=Profile%20Views&color=A855F7&style=flat"
-      alt="Profile Views"
-    />
-  </a>
-</p>
+<img width="100%" height="230" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=KHUSHBOO%20SHARMA&fontSize=52&fontColor=ffffff&stroke=58A6FF&strokeWidth=1&animation=fadeIn&color=0:050816,40:101C3A,100:0B1224&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE&descSize=14&descAlignY=75" />
 
-<p align="center">
-  <a href="https://github.com/khush094sharma-glitch?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/khush094sharma-glitch?label=Followers&style=flat&color=22D3EE"
-      alt="GitHub Followers"
-    />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+technology.;Building+real-world+software.;Exploring+the+world+of+AI+and+data.;Curiosity+%E2%86%92+Code+%E2%86%92+Creation." />
 
-  <a href="https://github.com/khush094sharma-glitch?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/khush094sharma-glitch?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars&color=C084FC"
-      alt="GitHub Stars"
-    />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://linkedin.com/in/khushboo-sharma-943648301">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:khush094sharma@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/khush094sharma-glitch">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 👩‍💻 About Me
+<br/><br/>
 
-I'm a **Computer Science Engineering student** focused on **Data Science, AI & ML, and building real-world software**.
+<img src="https://komarev.com/ghpvc/?username=khush094sharma-glitch&style=flat-square&color=2563eb&label=VISITORS"/>
 
-- 🔭 Currently learning and building with **Data Science, AI/ML, and backend development**
-- 🌱 Exploring **machine learning, APIs, databases, and full-stack development**
-- 💡 Interested in turning data into useful, reliable applications
-- 📫 Reach me at **khush094sharma@gmail.com**
+</div>
 
----
+<br/>
 
-## 🚀 Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2&section=header"/>
 
-### 🥗 Nutrition Management System
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-A backend-focused application for managing nutrition-related data and workflows.
+## ◈ THE BUILDER
 
-**Stack:** Python • Django • MySQL • HTML • CSS
+### Hello, I'm Khushboo.
 
-🔗 [View Repository](https://github.com/khush094sharma-glitch/Nutrition-Management-System)
+Computer Science student. Technology enthusiast. Builder in progress.
 
----
+I enjoy turning ideas into practical applications, exploring intelligent systems, and understanding how software can solve real problems.
 
-## 🧰 Tech Stack
+**My direction**
 
-### Languages
+`DATA` → `INTELLIGENCE` → `PRODUCTS`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=5&theme=dark" alt="Python, TypeScript, JavaScript, HTML, and CSS icons" />
-</p>
+</td>
+<td width="42%" align="center">
 
-### Data & AI
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,mysql,git&perline=3" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas&perline=5&theme=dark" alt="Pandas icon" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn icon" />
-</p>
+<br/><br/>
 
-### Backend & Databases
+<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-58A6FF?style=for-the-badge&labelColor=0D1117"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis&perline=5&theme=dark" alt="FastAPI, Django, PostgreSQL, MySQL, and Redis icons" />
-</p>
+</td>
+</tr>
+</table>
 
-### Frontend
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3&theme=dark" alt="React, Next.js, and Tailwind CSS icons" />
-</p>
+<div align="center">
 
-### Tools & Infrastructure
+# ◈ WHAT I'M INTO
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4&theme=dark" alt="Git, GitHub, Docker, and Visual Studio Code icons" />
-</p>
+</div>
 
----
+<table>
+<tr>
+<td align="center" width="25%">
 
-## 📊 GitHub Analytics
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65"/>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&title_color=C4B5FD&text_color=E5E7EB&icon_color=22D3EE&bg_color=0B0B16"
-      height="180"
-      alt="GitHub statistics dashboard for Khushboo Sharma"
-    />
-  </a>
+**ARTIFICIAL INTELLIGENCE**
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&langs_count=8&hide_border=true&title_color=C4B5FD&text_color=E5E7EB&bg_color=0B0B16"
-      height="180"
-      alt="Most-used programming languages for Khushboo Sharma"
-    />
-  </a>
-</p>
+<sub>Exploring intelligent products</sub>
 
----
+</td>
+<td align="center" width="25%">
 
-## 🔥 Contribution Streak
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="65"/>
 
-<p align="center">
-  <a href="https://github.com/joey-the-33rd/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=khush094sharma-glitch&hide_border=true&background=0B0B16&stroke=312E81&ring=A855F7&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8"
-      alt="GitHub contribution streak for Khushboo Sharma"
-    />
-  </a>
-</p>
+**DATA SCIENCE**
 
----
+<sub>Finding meaning in data</sub>
 
-## 📈 Contribution Activity
+</td>
+<td align="center" width="25%">
 
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&hide_border=true&area=true&bg_color=0B0B16&color=22D3EE&line=A855F7&point=C4B5FD&area_color=312E81"
-      alt="GitHub contribution activity graph for Khushboo Sharma"
-      width="100%"
-    />
-  </a>
-</p>
+<img src="https://img.icons8.com/fluency/96/code.png" width="65"/>
 
----
+**SOFTWARE DEVELOPMENT**
 
-## 🏆 GitHub Achievements
+<sub>Building useful applications</sub>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=khush094sharma-glitch&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"
-      alt="GitHub achievements and
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/processor.png" width="65"/>
+
+**TECHNOLOGY**
+
+<sub>Learning by experimenting</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2"/>
+
+<div align="center">
+
+# ◈ SELECTED PROJECTS
+
+<sub>Ideas transformed into engineering work.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&text=MAIRA&fontSize=35&fontColor=ffffff&color=0:102A43,100:2563EB"/>
+
+### Maternal & Infant Referral Assistance
+
+<img src="https://img.shields.io/badge/HEALTHCARE-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0D1117?style=flat-square"/>
+
+A healthcare referral platform focused on maternal and infant emergency coordination.
+
+**Contribution**
+- Frontend development
+- Role-based dashboard interfaces
+- Responsive UI
+- Team collaboration
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+
+<a href="https://seva-red-sigma.vercel.app/">↗ OPEN LIVE PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&text=DATADECIQO&fontSize=30&fontColor=ffffff&color=0:24104F,100:6D28D9"/>
+
+### AI Data Scientist for Businesses
+
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/SAAS%20CONCEPT-0D1117?style=flat-square"/>
+
+An AI-powered data intelligence concept designed to automate business data analysis and turn information into decisions.
+
+**Exploring**
+- Automated data analysis
+- Business intelligence
+- AI-powered insights
+- Predictive analytics
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<sub>STATUS: RESEARCH & DEVELOPMENT</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&text=NUTRITION%20SYSTEM&fontSize=25&fontColor=ffffff&color=0:064E3B,100:10B981"/>
+
+### Nutrition Management System
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+A nutrition management application built to organize and manage nutrition-related information.
+
+**Implementation**
+- Python application
+- MySQL database
+- Data management
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&text=SOLAR%20COLD%20STORAGE&fontSize=23&fontColor=ffffff&color=0:713F12,100:F59E0B"/>
+
+### Solar Mini Cold Storage
+
+<img src="https://img.shields.io/badge/SIH%202026-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/IOT-0D1117?style=flat-square"/>
+
+A solar-powered mini cold-storage system concept focused on temperature-controlled storage.
+
+**Project direction**
+- Solar-powered storage
+- Environmental monitoring
+- Sensor-based system concept
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2"/>
+
+<div align="center">
+
+# ◈ MY TECHNOLOGY UNIVERSE
+
+<sub>A visual map of the tools I use.</sub>
+
+<br/><br/>
+
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=8" />
+
+### FRONTEND & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=8" />
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=8" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+# ◈ HOW I THINK ABOUT BUILDING
+
+</div>
+
+```mermaid
+flowchart LR
+    A["💡 IDEA"] --> B["🔍 RESEARCH"]
+    B --> C["⚙️ ENGINEERING"]
+    C --> D["🧪 TESTING"]
+    D --> E["🚀 PRODUCT"]
+    E --> F["📈 IMPROVEMENT"]
+
+    style A fill:#172554,stroke:#3B82F6,color:#fff
+    style B fill:#172554,stroke:#3B82F6,color:#fff
+    style C fill:#172554,stroke:#3B82F6,color:#fff
+    style D fill:#172554,stroke:#3B82F6,color:#fff
+    style E fill:#172554,stroke:#3B82F6,color:#fff
+    style F fill:#172554,stroke:#3B82F6,color:#fff
+```
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2"/>
+
+<div align="center">
+
+# ◈ GITHUB COMMAND CENTER
+
+<sub>My public coding activity, contributions and repositories.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/khush094sharma-glitch">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khush094sharma-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"/>
+</a>
+<a href="https://github.com/khush094sharma-glitch">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush094sharma-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=khush094sharma-glitch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khush094sharma-glitch&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### CONTRIBUTION SNAKE
+
+<img width="100%" src="https://raw.githubusercontent.com/khush094sharma-glitch/output/main/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=2"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Curiosity+is+the+starting+point.;Building+is+the+real+learning.;The+next+project+is+always+better." />
+
+<br/>
+
+<a href="https://linkedin.com/in/khushboo-sharma-943648301">
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<sub>DESIGNED WITH INTENTION · KHUSHBOO SHARMA · 2026</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:2563EB&height=120&section=footer"/>
+
+</div>
