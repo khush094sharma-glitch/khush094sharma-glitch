@@ -1,0 +1,46 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#101C3A"/>
+      <stop offset="100%" stop-color="#0B1224"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+
+      <animate attributeName="x1" from="-100%" to="100%"
+        dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%"
+        dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="230" rx="12" fill="url(#bg)"/>
+
+  <text x="600" y="105"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="66"
+    font-weight="bold"
+    letter-spacing="3"
+    fill="url(#shine)"
+    stroke="#58A6FF"
+    stroke-width="0.5">
+    KHUSHBOO SHARMA
+  </text>
+
+  <text x="600" y="155"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="17"
+    letter-spacing="3"
+    fill="#A9C9F5">
+    DATA SCIENTIST
+  </text>
+</svg>
